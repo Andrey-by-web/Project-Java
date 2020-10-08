@@ -1,6 +1,8 @@
 package lesson2;
 
+import java.math.BigInteger;
 import java.util.Scanner;
+import java.math.BigDecimal;
 
 class HelloWorld {
     public static void main(String[] args) {
@@ -13,5 +15,10 @@ class HelloWorld {
         int sumResult = numberOne + numberTwo;
         System.out.println(sumResult);
         System.out.println("привет");
+        System.out.println("количество рабочих дней в году: ");
+        int workDay = sc.nextInt();
+        System.out.println(workDay);
+
+
     }
 }
