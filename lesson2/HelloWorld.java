@@ -12,5 +12,6 @@ class HelloWorld {
         int numberTwo = sc.nextInt();
         int sumResult = numberOne + numberTwo;
         System.out.println(sumResult);
+        System.out.println("привет");
     }
 }
