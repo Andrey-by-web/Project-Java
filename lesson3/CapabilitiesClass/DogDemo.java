@@ -6,7 +6,13 @@ public class DogDemo {
 
         dog.infoDog();
         dog.voice();
-        dog.eat();
-        dog.sleep();
+      //  dog.eat();
+      //  dog.sleep();
+        dog.sleepTrue();
+        dog.infoDog();
+
+        dog.sleepFalse();
+        dog.hungryTrue();
+        dog.infoDog();
     }
 }

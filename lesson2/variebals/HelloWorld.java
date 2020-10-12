@@ -1,8 +1,6 @@
-package lesson2;
-
+package lesson2.variebals;
 
 import java.util.Scanner;
-
 
 class HelloWorld {
     public static void main(String[] args) {
@@ -16,9 +14,7 @@ class HelloWorld {
         System.out.println(sumResult);
         System.out.println("привет");
         System.out.println("количество рабочих дней в году: ");
-        int workDay = sc.nextInt();
-        System.out.println(workDay);
-
-
+        int worksDay = sc.nextInt();
+        System.out.println(worksDay);
     }
 }
