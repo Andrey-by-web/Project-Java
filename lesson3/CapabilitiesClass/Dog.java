@@ -58,6 +58,6 @@ public class Dog {
         System.out.println("Возраст собаки: " + age);
         System.out.println("Цвет шерсти: " + color);
         System.out.println("Собака спит? " + isSleep);
-        System.out.println("Собака олодная? " + isHungry);
+        System.out.println("Собака голодная? " + isHungry);
     }
 }
