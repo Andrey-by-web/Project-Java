@@ -21,5 +21,8 @@ public class SignComparator {
         else if(number == 0){
             System.out.println("number " + number + " is equal zero");
         }
+        else {
+            System.out.println("number not defined");
+        }
     }
 }
